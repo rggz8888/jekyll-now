@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+坐标杭州，中年程序员一枚。
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Linux/kubernetes/docker/Java/Python/MySQL/Nginx  
+嗯，杂而不精。
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
